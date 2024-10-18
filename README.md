@@ -15,3 +15,6 @@ To run
 - 'p' to reset
 - 'l' to navigate to levels page
 - Backspace to return to home page
+
+### Demo Video
+![demo video](./project_demo_no_sound.mp4)
